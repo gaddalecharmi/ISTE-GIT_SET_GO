@@ -5,3 +5,40 @@
     box-sizing: border-box;
     font-family: roboto;
 }
+.bgc{
+    background-color: rgb(49, 46, 46);
+}
+.icon1{
+    height: 24px;
+    width: 36px;
+}
+.img1{
+    height: 50px;
+    width: 300px;
+}
+.wid{
+    width: 400px;
+}
+.child{
+    width: 20px;
+    height: 20px;
+    font-size: 0.8rem;
+    position: absolute;
+    top: -5px;
+    left: 12px;
+}
+.parent{
+    position: relative;
+}
+header ul{
+    list-style-type: none;
+}
+.mrg{
+    margin-left: 5rem;
+    height: 36px;
+    font-size: 0.9rem;
+    background-color: rgb(9, 119, 245);
+}
+.btn2{
+    height: 36px;
+}
